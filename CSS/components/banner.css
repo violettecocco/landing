@@ -1,0 +1,10 @@
+.banner {
+	background-image: url(../../images/fond.jpeg);
+	color: beige;
+	padding: 150px 0px;
+
+}
+
+.banner h1{
+	font-size: 50px;
+}

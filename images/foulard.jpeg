@@ -1,0 +1,1126 @@
+<!DOCTYPE HTML>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7 " lang="fr"><![endif]-->
+<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8 ie7" lang="fr"><![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9 ie8" lang="fr"><![endif]-->
+<!--[if gt IE 8]> <html class="no-js ie9" lang="fr"><![endif]-->
+<html lang="fr">
+	<head>
+		<meta charset="utf-8" />
+		<title>Foulard en coton fleurs indiennes par Bonheur du jour Paris Lucette / Carma / Azur</title>
+	
+				
+		<meta name="description" content="Collection de foulards qui met en valeur le savoir-faire des artisans de Jaipur en Inde. Fabriqués à partir de tissus imprimés selon la technique du block-print." />
+		<meta name="generator" content="PrestaShop" />
+		<meta name="robots" content="index,follow" />
+		<meta name="viewport" content="width=device-width, minimum-scale=0.25, maximum-scale=1.6, initial-scale=1.0" /> 
+		<meta name="apple-mobile-web-app-capable" content="yes" /> 
+		<link rel="icon" type="image/vnd.microsoft.icon" href="/shop/img/favicon.ico?1729608346" />
+		<link rel="shortcut icon" type="image/x-icon" href="/shop/img/favicon.ico?1729608346" />
+			<link rel="stylesheet" href="/shop/themes/BOTWBOTW/css/global.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/shop/themes/BOTWBOTW/css/autoload/highdpi.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/shop/themes/BOTWBOTW/css/autoload/homefeatured.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/shop/themes/BOTWBOTW/css/autoload/responsive-tables.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/shop/themes/BOTWBOTW/css/autoload/uniform.default.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/shop/themes/BOTWBOTW/css/product.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/shop/themes/BOTWBOTW/css/print.css" type="text/css" media="print" />
+			<link rel="stylesheet" href="/shop/js/jquery/plugins/fancybox/jquery.fancybox.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/shop/themes/BOTWBOTW/css/modules/blockbanner/blockbanner.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/shop/themes/BOTWBOTW/css/modules/blocklanguages/blocklanguages.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/shop/themes/BOTWBOTW/css/modules/blockcontact/blockcontact.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/shop/themes/BOTWBOTW/css/modules/blocksearch/blocksearch.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/shop/js/jquery/plugins/autocomplete/jquery.autocomplete.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/shop/themes/BOTWBOTW/css/modules/blockuserinfo/blockuserinfo.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/shop/themes/BOTWBOTW/css/modules/blockwishlist/blockwishlist.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/shop/modules/mailalerts/css/mailalerts.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/shop/modules/themeconfigurator/css/hooks.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/shop/modules/lofadvancecustom/tmpl/default/assets/style.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/shop/themes/BOTWBOTW/css/modules/blocknewsletter/blocknewsletter.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/shop/themes/BOTWBOTW/css/modules/blocktags/blocktags.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/shop/themes/BOTWBOTW/css/modules/blockcart/blockcart.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/shop/themes/BOTWBOTW/css/modules/blocktopmenu/css/blocktopmenu.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/shop/themes/BOTWBOTW/css/modules/blocktopmenu/css/superfish-modified.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/shop/modules/featuredcategory/css/featuredcategory.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/shop/modules/productlabel/views/css/front.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/shop/modules/paypal/views/css/paypal.css" type="text/css" media="all" />
+		<script type="text/javascript">
+var CUSTOMIZE_TEXTFIELD = 1;
+var FancyboxI18nClose = 'Fermer';
+var FancyboxI18nNext = 'Suivant';
+var FancyboxI18nPrev = 'Pr&eacute;c&eacute;dent';
+var PS_CATALOG_MODE = false;
+var added_to_wishlist = 'Ajouté à votre liste de cadeaux.';
+var ajax_allowed = true;
+var ajaxsearch = true;
+var allowBuyWhenOutOfStock = false;
+var attribute_anchor_separator = '-';
+var attributesCombinations = [{"id_attribute":"1176","id_attribute_group":"13","attribute":"1_lucette_pink","group":"modele"},{"id_attribute":"1177","id_attribute_group":"13","attribute":"2_carma_rosee_blue","group":"modele"},{"id_attribute":"1178","id_attribute_group":"13","attribute":"3_azur_bleu","group":"modele"}];
+var availableLaterValue = '';
+var availableNowValue = 'Disponibilité : en stock';
+var baseDir = 'https://botw.fr/shop/';
+var baseUri = 'https://botw.fr/shop/';
+var blocksearch_type = 'top';
+var combinations = {"4791":{"attributes_values":{"13":"1 - Lucette Pink"},"attributes":[1176],"price":0,"specific_price":false,"ecotax":0,"weight":0,"quantity":0,"reference":"","unit_impact":"0.00","minimal_quantity":"1","available_date":"","id_image":-1,"list":"'1176'"},"4792":{"attributes_values":{"13":"2 - Carma Ros\u00e9e Blue"},"attributes":[1177],"price":0,"specific_price":false,"ecotax":0,"weight":0,"quantity":0,"reference":"","unit_impact":"0.00","minimal_quantity":"1","available_date":"","id_image":-1,"list":"'1177'"},"4793":{"attributes_values":{"13":"3 - Azur Bleu"},"attributes":[1178],"price":0,"specific_price":false,"ecotax":0,"weight":0,"quantity":0,"reference":"","unit_impact":"0.00","minimal_quantity":"1","available_date":"","id_image":-1,"list":"'1178'"}};
+var combinationsFromController = {"4791":{"attributes_values":{"13":"1 - Lucette Pink"},"attributes":[1176],"price":0,"specific_price":false,"ecotax":0,"weight":0,"quantity":0,"reference":"","unit_impact":"0.00","minimal_quantity":"1","available_date":"","id_image":-1,"list":"'1176'"},"4792":{"attributes_values":{"13":"2 - Carma Ros\u00e9e Blue"},"attributes":[1177],"price":0,"specific_price":false,"ecotax":0,"weight":0,"quantity":0,"reference":"","unit_impact":"0.00","minimal_quantity":"1","available_date":"","id_image":-1,"list":"'1177'"},"4793":{"attributes_values":{"13":"3 - Azur Bleu"},"attributes":[1178],"price":0,"specific_price":false,"ecotax":0,"weight":0,"quantity":0,"reference":"","unit_impact":"0.00","minimal_quantity":"1","available_date":"","id_image":-1,"list":"'1178'"}};
+var contentOnly = false;
+var currencyBlank = 0;
+var currencyFormat = 2;
+var currencyRate = 1;
+var currencySign = '€';
+var currentDate = '2024-10-28 17:54:14';
+var customerGroupWithoutTax = false;
+var customizationFields = false;
+var customizationIdMessage = 'Personnalisation';
+var default_eco_tax = 0;
+var delete_txt = 'Supprimer';
+var displayDiscountPrice = '0';
+var displayList = false;
+var displayPrice = 0;
+var doesntExist = 'Combinaison indisponible actuellement. Merci d\'en choisir une autre.';
+var doesntExistNoMore = 'Ce produit n\'est plus en stock actuellement ';
+var doesntExistNoMoreBut = 'avec cette option.';
+var ecotaxTax_rate = 0;
+var fieldRequired = 'Merci de remplir le champ dédié avant de sauvegarder votre personnalisation.';
+var freeProductTranslation = 'Offert !';
+var freeShippingTranslation = 'Livraison gratuite !';
+var generated_date = 1730134454;
+var group_reduction = 0;
+var idDefaultImage = 23048;
+var id_lang = 5;
+var id_product = 26038;
+var img_dir = 'https://botw.fr/shop/themes/BOTWBOTW/img/';
+var img_prod_dir = 'https://botw.fr/shop/img/p/';
+var img_ps_dir = 'https://botw.fr/shop/img/';
+var instantsearch = false;
+var isGuest = 0;
+var isLogged = 0;
+var jqZoomEnabled = false;
+var loggin_required = 'Vous devez être connecté pour gérer votre liste de cadeaux';
+var maxQuantityToAllowDisplayOfLastQuantityMessage = 1;
+var minimalQuantity = 1;
+var mywishlist_url = 'https://botw.fr/shop/fr/module/blockwishlist/mywishlist';
+var noTaxForThisProduct = false;
+var oosHookJsCodeFunctions = [];
+var page_name = 'product';
+var priceDisplayMethod = 0;
+var priceDisplayPrecision = 2;
+var productAvailableForOrder = true;
+var productBasePriceTaxExcl = 31.666667;
+var productBasePriceTaxExcluded = 31.666667;
+var productHasAttributes = true;
+var productPrice = 38;
+var productPriceTaxExcluded = 31.666667;
+var productPriceWithoutReduction = 38;
+var productReference = '';
+var productShowPrice = true;
+var productUnitPriceRatio = 0;
+var product_fileButtonHtml = 'Choisissez un fichier';
+var product_fileDefaultHtml = 'Aucun fichier sélectionné';
+var product_specific_price = [];
+var quantitiesDisplayAllowed = false;
+var quantityAvailable = 0;
+var quickView = false;
+var reduction_percent = 0;
+var reduction_price = 0;
+var removingLinkText = 'supprimer cet article du panier';
+var roundMode = 2;
+var search_url = 'https://botw.fr/shop/fr/recherche';
+var specific_currency = false;
+var specific_price = 0;
+var static_token = '33f622ff998861c0c30715953bd0fda3';
+var stock_management = 1;
+var taxRate = 20;
+var token = '33f622ff998861c0c30715953bd0fda3';
+var upToTxt = 'Jusqu\'à';
+var uploading_in_progress = 'Téléchargement en cours, encore un peu de patience !';
+var usingSecureMode = true;
+var wishlistProductsIds = false;
+</script>
+
+		<script type="text/javascript" src="/shop/js/jquery/jquery-1.11.0.min.js"></script>
+		<script type="text/javascript" src="/shop/js/jquery/jquery-migrate-1.2.1.min.js"></script>
+		<script type="text/javascript" src="/shop/js/jquery/plugins/jquery.easing.js"></script>
+		<script type="text/javascript" src="/shop/js/tools.js"></script>
+		<script type="text/javascript" src="/shop/themes/BOTWBOTW/js/global.js"></script>
+		<script type="text/javascript" src="/shop/themes/BOTWBOTW/js/autoload/10-bootstrap.min.js"></script>
+		<script type="text/javascript" src="/shop/themes/BOTWBOTW/js/autoload/15-jquery.total-storage.min.js"></script>
+		<script type="text/javascript" src="/shop/themes/BOTWBOTW/js/autoload/15-jquery.uniform-modified.js"></script>
+		<script type="text/javascript" src="/shop/js/jquery/plugins/fancybox/jquery.fancybox.js"></script>
+		<script type="text/javascript" src="/shop/js/jquery/plugins/jquery.idTabs.js"></script>
+		<script type="text/javascript" src="/shop/js/jquery/plugins/jquery.scrollTo.js"></script>
+		<script type="text/javascript" src="/shop/js/jquery/plugins/jquery.serialScroll.js"></script>
+		<script type="text/javascript" src="/shop/js/jquery/plugins/bxslider/jquery.bxslider.js"></script>
+		<script type="text/javascript" src="/shop/themes/BOTWBOTW/js/product.js"></script>
+		<script type="text/javascript" src="/shop/js/jquery/plugins/autocomplete/jquery.autocomplete.js"></script>
+		<script type="text/javascript" src="/shop/themes/BOTWBOTW/js/modules/blocksearch/blocksearch.js"></script>
+		<script type="text/javascript" src="/shop/themes/BOTWBOTW/js/modules/blockwishlist/js/ajax-wishlist.js"></script>
+		<script type="text/javascript" src="/shop/modules/mailalerts/js/mailalerts.js"></script>
+		<script type="text/javascript" src="/shop/themes/BOTWBOTW/js/modules/blocknewsletter/blocknewsletter.js"></script>
+		<script type="text/javascript" src="/shop/themes/BOTWBOTW/js/modules/blockcart/ajax-cart.js"></script>
+		<script type="text/javascript" src="/shop/themes/BOTWBOTW/js/modules/blocktopmenu/js/hoverIntent.js"></script>
+		<script type="text/javascript" src="/shop/themes/BOTWBOTW/js/modules/blocktopmenu/js/superfish-modified.js"></script>
+		<script type="text/javascript" src="/shop/themes/BOTWBOTW/js/modules/blocktopmenu/js/blocktopmenu.js"></script>
+		<script type="text/javascript" src="/shop/modules/productlabel/views/js/front.js"></script>
+		<script type="text/javascript" src="/shop/modules/paypal/views/js/incontext.js"></script>
+			<script type="text/javascript">
+        
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r;
+        i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date();
+        a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+    
+
+    ga('create', 'UA-50974637-1');
+
+        ga('send', 'pageview');
+    
+        </script><!-- Facebook Product Ad Module by BusinessTech - Start Facebook Pixel Code -->
+	
+	<script>
+		!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+			n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+			n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+			t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)
+		}(window, document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+					fbq('consent', 'grant');
+		
+		fbq('init', '857120884672432');
+		fbq('track', 'PageView');
+
+		
+
+				
+		fbq('track', 'ViewContent', {
+			
+							content_type : 'product',
+							content_ids : ['BOTWFR26038'],
+							value : 38,
+							currency : 'EUR',
+							content_name : 'Foulard Bonheur du jour - Lucette / Carma / Azur',
+							content_category : 'Foulards & écharpes'						
+		});
+		
+				
+	</script>
+	<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=857120884672432&ev=PageView&noscript=1"/></noscript>
+	
+
+	<!-- manage the click event on the wishlist and the add to cart -->
+		<script type="text/javascript" src="/shop/modules/facebookproductad/views/js/pixel.js"></script>
+	<script type="text/javascript">
+
+		var oPixelFacebook = new oPixelFacebook();
+
+		oPixelFacebook.addToCart({"content_name":"Foulard Bonheur du jour - Lucette \/ Carma \/ Azur","content_category":"Foulards & \u00e9charpes","content_ids":"['BOTWFR26038']","content_type":"product","value":38,"currency":"EUR"}, 'p[id="add_to_cart"]');oPixelFacebook.addToWishList({"content_name":"'Foulard Bonheur du jour - Lucette \/ Carma \/ Azur'","content_category":"'Foulards & \u00e9charpes'","content_ids":"['BOTWFR26038']","content_type":"'product'","value":38,"currency":"'EUR'"}, 'a[id="wishlist_button_nopop"]');
+
+	</script>
+	<!-- Facebook Product Ad Module by BusinessTech - End Facebook Pixel Code -->
+
+
+<script defer type="text/javascript">/*
+* 2007-2018 PrestaShop
+*
+* NOTICE OF LICENSE
+*
+* This source file is subject to the Academic Free License (AFL 3.0)
+* that is bundled with this package in the file LICENSE.txt.
+* It is also available through the world-wide-web at this URL:
+* http://opensource.org/licenses/afl-3.0.php
+* If you did not receive a copy of the license and are unable to
+* obtain it through the world-wide-web, please send an email
+* to license@prestashop.com so we can send you a copy immediately.
+*
+* DISCLAIMER
+*
+* Do not edit or add to this file if you wish to upgrade PrestaShop to newer
+* versions in the future. If you wish to customize PrestaShop for your
+* needs please refer to http://www.prestashop.com for more information.
+*
+*  @author 2007-2019 PayPal
+ *  @author 2007-2013 PrestaShop SA <contact@prestashop.com>
+ *  @author 2014-2019 202 ecommerce <tech@202-ecommerce.com>
+*  @copyright PayPal
+*  @license http://opensource.org/licenses/osl-3.0.php Open Software License (OSL 3.0)
+*  
+*/
+
+
+    
+
+function updateFormDatas()
+{
+	var nb = $('#quantity_wanted').val();
+	var id = $('#idCombination').val();
+
+	$('.paypal_payment_form input[name=quantity]').val(nb);
+	$('.paypal_payment_form input[name=id_p_attr]').val(id);
+}
+	
+$(document).ready( function() {
+    
+		var baseDirPP = baseDir.replace('http:', 'https:');
+		
+	if($('#in_context_checkout_enabled').val() != 1)
+	{
+        $(document).on('click','#payment_paypal_express_checkout', function() {
+			$('#paypal_payment_form_cart').submit();
+			return false;
+		});
+	}
+
+
+	var jquery_version = $.fn.jquery.split('.');
+	if(jquery_version[0]>=1 && jquery_version[1] >= 7)
+	{
+		$('body').on('submit',".paypal_payment_form", function () {
+			updateFormDatas();
+		});
+	}
+	else {
+		$('.paypal_payment_form').live('submit', function () {
+			updateFormDatas();
+		});
+	}
+
+	function displayExpressCheckoutShortcut() {
+		var id_product = $('input[name="id_product"]').val();
+		var id_product_attribute = $('input[name="id_product_attribute"]').val();
+		$.ajax({
+			type: "GET",
+			url: baseDirPP+'/modules/paypal/express_checkout/ajax.php',
+			data: { get_qty: "1", id_product: id_product, id_product_attribute: id_product_attribute },
+			cache: false,
+			success: function(result) {
+				if (result == '1') {
+					$('#container_express_checkout').slideDown();
+				} else {
+					$('#container_express_checkout').slideUp();
+				}
+				return true;
+			}
+		});
+	}
+
+	$('select[name^="group_"]').change(function () {
+		setTimeout(function(){displayExpressCheckoutShortcut()}, 500);
+	});
+
+	$('.color_pick').click(function () {
+		setTimeout(function(){displayExpressCheckoutShortcut()}, 500);
+	});
+
+    if($('body#product').length > 0) {
+        setTimeout(function(){displayExpressCheckoutShortcut()}, 500);
+    }
+	
+	
+			
+
+	var modulePath = 'modules/paypal';
+	var subFolder = '/integral_evolution';
+
+	var fullPath = baseDirPP + modulePath + subFolder;
+	var confirmTimer = false;
+		
+	if ($('form[target="hss_iframe"]').length == 0) {
+		if ($('select[name^="group_"]').length > 0)
+			displayExpressCheckoutShortcut();
+		return false;
+	} else {
+		checkOrder();
+	}
+
+	function checkOrder() {
+		if(confirmTimer == false)
+			confirmTimer = setInterval(getOrdersCount, 1000);
+	}
+
+	});
+
+
+</script>
+<input type="hidden" id="paypal_mode" value="production">
+<input type="hidden" id="paypal_merchant_id" value="N7RW2C2WVHMJL">
+<input type="hidden" id="paypal_ssl_enabled" value="1"><script defer src="//www.paypalobjects.com/api/checkout.js"></script>
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,600" type="text/css" media="all" />
+		<!--[if IE 8]>
+		<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+		<script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+		<![endif]-->
+	
+    
+    
+    
+<!-- Copyright (c)2017-2018 (d)oekia Enter-Solutions GPL -->
+<!-- Google ReCaptcha on contact form -->
+<script>
+(function(){
+	var googlecaptchasitekey = '6LdvLE8pAAAAADkGS7biUGT2oFeBj91PQKBtCQxM';
+	var trigger = function(){
+		setTimeout(function(){
+			$('div.g-recaptcha').remove();
+			var $forms = $('form.contact-form-box,form#sendOrderMessage,form#account-creation_form, form#new_account_form');
+			if ($forms.length > 0){
+				var captcha = $('<div class="g-recaptcha" data-sitekey="'+ googlecaptchasitekey + '">');
+				var $submit = $forms.find('#submitMessage,.button[name=submitMessage],#submitAccount');
+				$submit.before(captcha);
+				$submit.click(function(event){
+					if ($forms.find('#g-recaptcha-response').val().length == 0) {
+						event.preventDefault();
+						event.stopPropagation();
+						return false;
+					}
+				});
+				try {
+						window.grecaptcha.render(captcha[0]);
+				} catch(e){};
+			}
+		},1000);
+	};
+	$(document).ready(trigger);
+	$(document).bind('ajaxComplete', trigger);
+	})();
+</script>
+<script src="https://www.google.com/recaptcha/api.js?hl=fr"></script>
+<script>
+	if ( window.history.replaceState ) {
+		window.history.replaceState( null, null, window.location.href );
+	}
+</script>
+        
+        
+        
+        
+    
+    
+    </head>
+	<body id="product" class="product product-26038 product-foulard-bandana-coton-fleurs-indiennes-bonheur-du-jour-paris category-141 category-foulards-echarpes hide-right-column lang_fr">
+					<div id="page">
+			<div class="header-container">
+				<header id="header">
+					<div class="banner">
+						<div class="container">
+							<div class="row">
+								
+	<span class="banner-text">	CONCEPT STORE EN LIGNE DEPUIS 2006  •   ✈︎ Livraison offerte à partir de 69€  •  Service client ☎︎ 0967327370</span>
+
+
+							</div>
+						</div>
+					</div>
+					<div class="nav">
+						<div class="container">
+							<div class="row">
+								<nav><!-- MODULE Block cart -->
+<div class="">
+	<div class="shopping_cart">
+		<a href="https://botw.fr/shop/fr/commande" title="Voir mon panier" rel="nofollow">
+			<b>Panier</b>
+			<span class="ajax_cart_quantity unvisible">0</span>
+			<span class="ajax_cart_product_txt unvisible">Produit</span>
+			<span class="ajax_cart_product_txt_s unvisible">Produits</span>
+			<span class="ajax_cart_total unvisible">
+							</span>
+			<span class="ajax_cart_no_product">(vide)</span>
+					</a>
+					<div class="cart_block block exclusive">
+				<div class="block_content">
+					<!-- block list of products -->
+					<div class="cart_block_list">
+												<p class="cart_block_no_products">
+							Aucun produit
+						</p>
+												<div class="cart-prices">
+						
+						<!-- 
+							<div class="cart-prices-line first-line">
+								
+
+								<span class="price cart_block_shipping_cost ajax_cart_shipping_cost">
+																			Livraison gratuite !
+																	</span>
+								<span>
+									Livraison
+								</span>
+							
+								
+							</div>
+								-->
+														<div class="cart-prices-line last-line">
+								<span class="price cart_block_total ajax_block_cart_total">Total : 0,00€</span>
+								
+							</div>
+													</div>
+						<p class="cart-buttons">
+							<a id="button_order_cart" class="btn btn-default button button-small" href="https://botw.fr/shop/fr/commande" title="Commander" rel="nofollow">
+								<span>
+									Commander<i class="icon-chevron-right right"></i>
+								</span>
+							</a>
+						</p>
+					</div>
+				</div>
+			</div><!-- .cart_block -->
+			</div>
+</div>
+
+	<div id="layer_cart">
+		<div class="clearfix">
+			<div class="layer_cart_product col-xs-12 col-md-6">
+				<span class="cross" title="Fermer la fenêtre"></span>
+				<h2>
+					<i class="icon-ok"></i>Et hop, un produit ajouté à votre panier !
+				</h2>
+				<div class="product-image-container layer_cart_img">
+				</div>
+				<div class="layer_cart_product_info">
+					<span id="layer_cart_product_title" class="product-name"></span>
+					<span id="layer_cart_product_attributes"></span>
+					<div>
+						<strong class="dark">Quantité</strong>
+						<span id="layer_cart_product_quantity"></span>
+					</div>
+					<div>
+						<strong class="dark">Total</strong>
+						<span id="layer_cart_product_price"></span>
+					</div>
+				</div>
+			</div>
+			<div class="layer_cart_cart col-xs-12 col-md-6">
+	
+
+				<div class="button-container">	
+					<span class="continue btn btn-default button exclusive-medium" title="Continuer mes achats">
+						<span>
+							<i class="icon-chevron-left left"></i>Continuer mes achats
+						</span>
+					</span>
+					<a class="btn btn-default button button-medium"	href="https://botw.fr/shop/fr/commande" title="Commander" rel="nofollow">
+						<span>
+							Commander<i class="icon-chevron-right right"></i>
+						</span>
+					</a>	
+				</div>
+			</div>
+		</div>
+		
+	</div> <!-- #layer_cart -->
+	<div class="layer_cart_overlay"></div>
+
+<!-- /MODULE Block cart -->
+
+
+<script type="text/javascript">
+$(".shopping_cart").click(function() {
+   location.href = "https://botw.fr/shop/fr/commande";
+});
+</script>
+<!-- Block user information module NAV  -->
+
+<div>
+		<span class="header_user_info">
+		<a class="login" href="https://botw.fr/shop/fr/mon-compte" rel="nofollow" title="Identifiez-vous">
+			Connexion
+		</a></span>
+	</div>
+<!-- /Block usmodule NAV -->
+<!-- Block languages module -->
+	<div id="languages-block-top" class="languages-block">
+														<div class="current">
+					<span><img alt="fr" height="11" span="" src="https://botw.fr/shop/img/l/5.jpg" width="16" /></span>
+				</div>
+							<ul id="first-languages" class="languages-block_ul toogle_content">
+							<li >
+																				<a href="https://botw.fr/shop/en/scarves/26038-indian-flowers-bandana-scarf-bonheur-du-jour-paris.html" title="English (English)">
+															<span><img alt="en" height="11" span="" src="https://botw.fr/shop/img/l/1.jpg" width="16" /></span>
+									</a>
+								</li>
+							<li class="selected">
+										<span><img alt="fr" height="11" span="" src="https://botw.fr/shop/img/l/5.jpg" width="16" /></span>
+								</li>
+					</ul>
+	</div>
+<!-- /Block languages module -->
+<!-- Block search module TOP -->
+<div id="search_block_top" >
+	<form id="searchbox" method="get" action="https://botw.fr/shop/fr/recherche" >
+		<input type="hidden" name="controller" value="search" />
+		<input type="hidden" name="orderby" value="date_upd" />
+		<input type="hidden" name="orderway" value="desc" />
+		<input class="search_query form-control" type="text" id="search_query_top" name="search_query" placeholder="Rechercher" value="" />
+		<button type="submit" name="submit_search" class="btn btn-default button-search">
+			<span>Rechercher</span>
+		</button>
+	</form>
+</div>
+<!-- /Block search module TOP --><div id="contact-link">
+	<a href="https://botw.fr/shop/fr/nous-contacter" title="Contactez-nous"><i class="icon-envelope"></i></a>
+</div>
+<div id="contact-link">
+	<a href="https://botw.fr/shop/fr/content/6-faq" title="FAQ"><i class="icon-question"></i></a>
+</div>
+<div id="contact-link">
+	<a href="https://botw.fr/shop/fr/content/4-a-propos" title="About us"><i class="icon-heart"></i></a>
+</div></nav>
+							</div>
+						</div>
+					</div>
+					<div class"nav">
+						<div class="container">
+							<div class="row">
+							<div class="center">
+								<div id="header_logo">
+									<a href="http://botw.fr/shop/" title="Bird on the wire">
+										<img class="logo img-responsive" src="https://botw.fr/shop/img/bird-on-the-wire-1564425451.jpg" alt="Bird on the wire" width="3800" height="980"/>
+									</a></div>
+								</div>	<!-- Menu -->
+	<div id="block_top_menu" class="sf-contener clearfix col-lg-12">
+		<div class="cat-title">Catégories</div>
+		<ul class="sf-menu clearfix menu-content">
+			<li><a href="https://botw.fr/shop/fr/82-bijoux" title="BIJOUX">BIJOUX</a><ul><li><a href="https://botw.fr/shop/fr/88-bagues" title="Bagues">Bagues</a></li><li><a href="https://botw.fr/shop/fr/89-colliers" title="Colliers">Colliers</a></li><li><a href="https://botw.fr/shop/fr/97-bracelets" title="Bracelets">Bracelets</a></li><li><a href="https://botw.fr/shop/fr/158-boucles-d-oreilles" title="Boucles d'oreilles">Boucles d'oreilles</a></li></ul></li><li><a href="https://botw.fr/shop/fr/84-maison" title="MAISON">MAISON</a><ul><li><a href="https://botw.fr/shop/fr/117-affiches-cadres-miroirs" title="Affiches, cadres, miroirs..">Affiches, cadres, miroirs..</a></li><li><a href="https://botw.fr/shop/fr/123-autres-objets-de-deco" title="Autres objets de déco">Autres objets de déco</a></li><li><a href="https://botw.fr/shop/fr/118-lampes-veilleuses" title="Lampes & veilleuses">Lampes & veilleuses</a></li><li><a href="https://botw.fr/shop/fr/192-puzzles-jeux" title="Puzzles, jeux...">Puzzles, jeux...</a></li><li><a href="https://botw.fr/shop/fr/115-vases-arrosoirs-cache-pots" title="Vases, arrosoirs  & cache-pots">Vases, arrosoirs  & cache-pots</a></li><li><a href="https://botw.fr/shop/fr/167-decorations-murales-etageres-horloges" title="Décorations murales, étagères & horloges">Décorations murales, étagères & horloges</a></li><li><a href="https://botw.fr/shop/fr/90-bougies-photophores-bougeoirs" title="Bougies, photophores & bougeoirs">Bougies, photophores & bougeoirs</a></li><li><a href="https://botw.fr/shop/fr/116-coussins-bouillottes-plaids-tapis" title="Coussins, bouillottes, plaids & tapis">Coussins, bouillottes, plaids & tapis</a></li><li><a href="https://botw.fr/shop/fr/156-objets-originaux-a-s-offrir" title="Objets originaux à (s')offrir">Objets originaux à (s')offrir</a></li><li><a href="https://botw.fr/shop/fr/119-porte-bijoux-et-vide-poches" title="Porte-bijoux et vide-poches">Porte-bijoux et vide-poches</a></li><li><a href="https://botw.fr/shop/fr/121-paniers-boites" title="Paniers & boîtes">Paniers & boîtes</a></li><li><a href="https://botw.fr/shop/fr/122-aimants-stickers" title="Aimants & stickers">Aimants & stickers</a></li><li><a href="https://botw.fr/shop/fr/129-chargeurs-enceintes-telephones" title="Chargeurs, enceintes, téléphones..">Chargeurs, enceintes, téléphones..</a></li><li><a href="https://botw.fr/shop/fr/130-appareils-photo" title="Appareils photo">Appareils photo</a></li><li><a href="https://botw.fr/shop/fr/155-art-toys-momiji" title="Art toys, Momiji..">Art toys, Momiji..</a></li></ul></li><li><a href="https://botw.fr/shop/fr/94-cuisine" title="CUISINE">CUISINE</a><ul><li><a href="https://botw.fr/shop/fr/107-mugs-tasses" title="Mugs & tasses">Mugs & tasses</a></li><li><a href="https://botw.fr/shop/fr/108-verres-bols-assiettes" title="Verres, bols, assiettes..">Verres, bols, assiettes..</a></li><li><a href="https://botw.fr/shop/fr/109-plateaux-planches" title="Plateaux & planches">Plateaux & planches</a></li><li><a href="https://botw.fr/shop/fr/110-autres-accessoires-de-cuisine" title="Autres accessoires de cuisine">Autres accessoires de cuisine</a></li><li><a href="https://botw.fr/shop/fr/111-infuseurs-a-the" title="Infuseurs à thé">Infuseurs à thé</a></li><li><a href="https://botw.fr/shop/fr/112-pailles-pics-aperitifs" title="Pailles, pics apéritifs..">Pailles, pics apéritifs..</a></li><li><a href="https://botw.fr/shop/fr/113-dessous-de-plats-sous-verres" title="Dessous-de-plats & sous-verres">Dessous-de-plats & sous-verres</a></li><li><a href="https://botw.fr/shop/fr/151-linge-de-table" title="Linge de table">Linge de table</a></li><li><a href="https://botw.fr/shop/fr/152-cafetieres-theieres" title="Cafetières & théières">Cafetières & théières</a></li></ul></li><li><a href="https://botw.fr/shop/fr/85-accessoires" title="ACCESSOIRES">ACCESSOIRES</a><ul><li><a href="https://botw.fr/shop/fr/142-broches-pin-s" title="Broches, pin's">Broches, pin's</a></li><li><a href="https://botw.fr/shop/fr/98-chaussettes-collants" title="Chaussettes & collants">Chaussettes & collants</a></li><li><a href="https://botw.fr/shop/fr/147-pochettes-trousses" title="Pochettes & trousses">Pochettes & trousses</a></li><li><a href="https://botw.fr/shop/fr/146-sacs-tote-bags" title="Sacs & tote bags">Sacs & tote bags</a></li><li><a href="https://botw.fr/shop/fr/191-chaufferettes" title="Chaufferettes">Chaufferettes</a></li><li><a href="https://botw.fr/shop/fr/153-portefeuilles-porte-monnaie" title="Portefeuilles & porte-monnaie">Portefeuilles & porte-monnaie</a></li><li><a href="https://botw.fr/shop/fr/154-porte-clefs" title="Porte-clefs">Porte-clefs</a></li><li><a href="https://botw.fr/shop/fr/141-foulards-echarpes" title="Foulards & écharpes">Foulards & écharpes</a></li><li><a href="https://botw.fr/shop/fr/157-autres-accessoires" title="Autres accessoires">Autres accessoires</a></li><li><a href="https://botw.fr/shop/fr/144-barrettes-accessoires-cheveux" title="Barrettes & accessoires cheveux">Barrettes & accessoires cheveux</a></li><li><a href="https://botw.fr/shop/fr/148-tatouages-ephemeres" title="Tatouages éphémères">Tatouages éphémères</a></li></ul></li><li><a href="https://botw.fr/shop/fr/83-papeterie" title="PAPETERIE">PAPETERIE</a><ul><li><a href="https://botw.fr/shop/fr/99-agendas-planners" title="Agendas & planners">Agendas & planners</a></li><li><a href="https://botw.fr/shop/fr/100-calendriers" title="Calendriers">Calendriers</a></li><li><a href="https://botw.fr/shop/fr/101-carnets-cahiers-etc" title="Carnets, cahiers, etc.">Carnets, cahiers, etc.</a></li><li><a href="https://botw.fr/shop/fr/102-stylos-crayons" title="Stylos & crayons">Stylos & crayons</a></li><li><a href="https://botw.fr/shop/fr/103-masking-tape" title="Masking tape">Masking tape</a></li><li><a href="https://botw.fr/shop/fr/104-stickers" title="Stickers">Stickers</a></li><li><a href="https://botw.fr/shop/fr/105-post-it-onglets" title="Post-it & onglets">Post-it & onglets</a></li><li><a href="https://botw.fr/shop/fr/106-autres-accessoires-de-bureau" title="Autres accessoires de bureau">Autres accessoires de bureau</a></li><li><a href="https://botw.fr/shop/fr/138-cartes" title="Cartes">Cartes</a></li><li><a href="https://botw.fr/shop/fr/139-emballages-cadeaux" title="Emballages cadeaux">Emballages cadeaux</a></li><li><a href="https://botw.fr/shop/fr/140-marque-pages" title="Marque-pages">Marque-pages</a></li></ul></li><li><a href="https://botw.fr/shop/fr/80-accessoires-salle-de-bain-beaute" title="SALLE DE BAIN">SALLE DE BAIN</a><ul><li><a href="https://botw.fr/shop/fr/124-baumes-a-levres-gloss" title="Baumes à lèvres & gloss">Baumes à lèvres & gloss</a></li><li><a href="https://botw.fr/shop/fr/125-cremes-savons" title="Crèmes & savons">Crèmes & savons</a></li><li><a href="https://botw.fr/shop/fr/126-boites-a-bijoux-et-portants" title="Boites à bijoux et portants">Boites à bijoux et portants</a></li><li><a href="https://botw.fr/shop/fr/127-accessoire-de-salle-de-bain" title="Accessoire de salle de bain">Accessoire de salle de bain</a></li><li><a href="https://botw.fr/shop/fr/128-masques-pour-le-visage" title="Masques pour le visage">Masques pour le visage</a></li><li><a href="https://botw.fr/shop/fr/166-trousses-de-toilette" title="Trousses de toilette">Trousses de toilette</a></li></ul></li><li><a href="https://botw.fr/shop/fr/132-kids" title="KIDS">KIDS</a><ul><li><a href="https://botw.fr/shop/fr/133-peluches" title="Peluches">Peluches</a></li><li><a href="https://botw.fr/shop/fr/134-vaisselle" title="Vaisselle">Vaisselle</a></li><li><a href="https://botw.fr/shop/fr/135-jouets-jeux" title="Jouets & jeux">Jouets & jeux</a></li><li><a href="https://botw.fr/shop/fr/164-decorations-murales" title="Décorations murales">Décorations murales</a></li><li><a href="https://botw.fr/shop/fr/165-veilleuses-lampes" title="Veilleuses & lampes">Veilleuses & lampes</a></li><li><a href="https://botw.fr/shop/fr/190-autres" title="Autres">Autres</a></li></ul></li><li><a href="https://botw.fr/shop/fr/93-back-in-stock" title="BACK IN STOCK">BACK IN STOCK</a></li><li><a href="https://botw.fr/shop/fr/159-nouveautes-" title="NOUVEAUTES ">NOUVEAUTES </a></li>
+			
+		</ul>
+	</div>
+	<!--/ Menu -->
+								
+							</div>
+						</div>
+					</div>
+				</header>
+			</div>
+			<div class="columns-container">
+				<div id="columns" class="container">
+											
+<!-- Breadcrumb -->
+<div class="breadcrumb clearfix">
+	<a class="home" href="http://botw.fr/shop/" title="Retour"><i class="icon-home"></i></a>
+			<span class="navigation-pipe" >&gt;</span>
+					<a href="https://botw.fr/shop/fr/85-accessoires" title="ACCESSOIRES">ACCESSOIRES</a><span class="navigation-pipe">></span><a href="https://botw.fr/shop/fr/141-foulards-echarpes" title="Foulards &amp; &eacute;charpes">Foulards &amp; &eacute;charpes</a><span class="navigation-pipe">></span>Foulard Bonheur du jour - Lucette / Carma / Azur
+			</div>
+<!-- /Breadcrumb -->
+										<div id="slider_row" class="row">
+						<div id="top_column" class="center_column col-xs-12 col-sm-12"></div>
+					</div>
+					<div class="row">
+																		<div id="center_column" class="center_column col-xs-12 col-sm-12">
+	
+
+
+
+							<div itemscope itemtype="http://schema.org/Product">
+	<div class="primary_block row">
+					<div class="container">
+				<div class="top-hr"></div>
+			</div>
+								<!-- left infos-->
+		<div class="pb-left-column">
+			<!-- product img-->
+			<div id="image-block" class="clearfix">
+																	<span id="view_full_size">
+													<img id="bigpic" itemprop="image" src="https://botw.fr/shop/23048-large_default/foulard-bandana-coton-fleurs-indiennes-bonheur-du-jour-paris.jpg" title="Foulard Bonheur du jour - " alt="Foulard Bonheur du jour - " width="600" height="600"/>
+															<span class="span_link no-print">Agrandir</span>
+																		</span>
+							</div> <!-- end image-block -->
+							<!-- thumbnails -->
+				<div id="views_block" class="clearfix ">
+											<span class="view_scroll_spacer">
+							<a id="view_scroll_left" class="" title="Autres vues" href="javascript:{}">
+								Pr&eacute;c&eacute;dent
+							</a>
+						</span>
+										<div id="thumbs_list" class="clearfix">
+						<ul id="thumbs_list_frame">
+																																																						<li id="thumbnail_23048">
+									<a href="https://botw.fr/shop/23048-thickbox_default/foulard-bandana-coton-fleurs-indiennes-bonheur-du-jour-paris.jpg"	data-fancybox-group="other-views" class="fancybox shown" title="Foulard Bonheur du jour - ">
+										<img class="img-responsive" id="thumb_23048" src="https://botw.fr/shop/23048-cart_default/foulard-bandana-coton-fleurs-indiennes-bonheur-du-jour-paris.jpg" alt="Foulard Bonheur du jour - " title="Foulard Bonheur du jour - " height="82" width="82" itemprop="image" />
+									</a>
+								</li>
+																																																<li id="thumbnail_23051">
+									<a href="https://botw.fr/shop/23051-thickbox_default/foulard-bandana-coton-fleurs-indiennes-bonheur-du-jour-paris.jpg"	data-fancybox-group="other-views" class="fancybox" title="Foulard Bonheur du jour - Lucette / Carma / Azur">
+										<img class="img-responsive" id="thumb_23051" src="https://botw.fr/shop/23051-cart_default/foulard-bandana-coton-fleurs-indiennes-bonheur-du-jour-paris.jpg" alt="Foulard Bonheur du jour - Lucette / Carma / Azur" title="Foulard Bonheur du jour - Lucette / Carma / Azur" height="82" width="82" itemprop="image" />
+									</a>
+								</li>
+																																																<li id="thumbnail_23050">
+									<a href="https://botw.fr/shop/23050-thickbox_default/foulard-bandana-coton-fleurs-indiennes-bonheur-du-jour-paris.jpg"	data-fancybox-group="other-views" class="fancybox" title="Foulard Bonheur du jour - Lucette / Curcuma / Azur">
+										<img class="img-responsive" id="thumb_23050" src="https://botw.fr/shop/23050-cart_default/foulard-bandana-coton-fleurs-indiennes-bonheur-du-jour-paris.jpg" alt="Foulard Bonheur du jour - Lucette / Curcuma / Azur" title="Foulard Bonheur du jour - Lucette / Curcuma / Azur" height="82" width="82" itemprop="image" />
+									</a>
+								</li>
+																																																<li id="thumbnail_23052">
+									<a href="https://botw.fr/shop/23052-thickbox_default/foulard-bandana-coton-fleurs-indiennes-bonheur-du-jour-paris.jpg"	data-fancybox-group="other-views" class="fancybox" title="Foulard Bonheur du jour - Lucette / Carma / Azur">
+										<img class="img-responsive" id="thumb_23052" src="https://botw.fr/shop/23052-cart_default/foulard-bandana-coton-fleurs-indiennes-bonheur-du-jour-paris.jpg" alt="Foulard Bonheur du jour - Lucette / Carma / Azur" title="Foulard Bonheur du jour - Lucette / Carma / Azur" height="82" width="82" itemprop="image" />
+									</a>
+								</li>
+																																																<li id="thumbnail_23056">
+									<a href="https://botw.fr/shop/23056-thickbox_default/foulard-bandana-coton-fleurs-indiennes-bonheur-du-jour-paris.jpg"	data-fancybox-group="other-views" class="fancybox" title="Foulard Bonheur du jour - Lucette / Carma / Azur">
+										<img class="img-responsive" id="thumb_23056" src="https://botw.fr/shop/23056-cart_default/foulard-bandana-coton-fleurs-indiennes-bonheur-du-jour-paris.jpg" alt="Foulard Bonheur du jour - Lucette / Carma / Azur" title="Foulard Bonheur du jour - Lucette / Carma / Azur" height="82" width="82" itemprop="image" />
+									</a>
+								</li>
+																																																<li id="thumbnail_23055">
+									<a href="https://botw.fr/shop/23055-thickbox_default/foulard-bandana-coton-fleurs-indiennes-bonheur-du-jour-paris.jpg"	data-fancybox-group="other-views" class="fancybox" title="Foulard Bonheur du jour - Lucette / Carma / Azur">
+										<img class="img-responsive" id="thumb_23055" src="https://botw.fr/shop/23055-cart_default/foulard-bandana-coton-fleurs-indiennes-bonheur-du-jour-paris.jpg" alt="Foulard Bonheur du jour - Lucette / Carma / Azur" title="Foulard Bonheur du jour - Lucette / Carma / Azur" height="82" width="82" itemprop="image" />
+									</a>
+								</li>
+																																																<li id="thumbnail_23057">
+									<a href="https://botw.fr/shop/23057-thickbox_default/foulard-bandana-coton-fleurs-indiennes-bonheur-du-jour-paris.jpg"	data-fancybox-group="other-views" class="fancybox" title="Foulard Bonheur du jour - Lucette / Carma / Azur">
+										<img class="img-responsive" id="thumb_23057" src="https://botw.fr/shop/23057-cart_default/foulard-bandana-coton-fleurs-indiennes-bonheur-du-jour-paris.jpg" alt="Foulard Bonheur du jour - Lucette / Carma / Azur" title="Foulard Bonheur du jour - Lucette / Carma / Azur" height="82" width="82" itemprop="image" />
+									</a>
+								</li>
+																																																<li id="thumbnail_23058" class="last">
+									<a href="https://botw.fr/shop/23058-thickbox_default/foulard-bandana-coton-fleurs-indiennes-bonheur-du-jour-paris.jpg"	data-fancybox-group="other-views" class="fancybox" title="Foulard Bonheur du jour - Lucette / Carma / Azur">
+										<img class="img-responsive" id="thumb_23058" src="https://botw.fr/shop/23058-cart_default/foulard-bandana-coton-fleurs-indiennes-bonheur-du-jour-paris.jpg" alt="Foulard Bonheur du jour - Lucette / Carma / Azur" title="Foulard Bonheur du jour - Lucette / Carma / Azur" height="82" width="82" itemprop="image" />
+									</a>
+								</li>
+																			</ul>
+					</div> <!-- end thumbs_list -->
+											<a id="view_scroll_right" title="Autres vues" href="javascript:{}">
+							Suivant
+						</a>
+									</div> <!-- end views-block -->	
+				<!-- end thumbnails -->
+										<p class="resetimg clear no-print">
+					<span id="wrapResetImages" style="display: none;">
+						<a href="https://botw.fr/shop/fr/foulards-echarpes/26038-foulard-bandana-coton-fleurs-indiennes-bonheur-du-jour-paris.html" name="resetImages">
+							<i class="icon-repeat"></i>
+							Voir toutes les images
+						</a>
+					</span>
+				</p>
+					
+		
+		</div> <!-- end pb-left-column -->
+		<!-- end left infos-->
+		<!-- center infos -->
+		<div class="pb-center-column">
+						<h1 itemprop="name">Foulard Bonheur du jour - Lucette / Carma / Azur</h1>
+			
+			
+			
+			<!-- 
+			<p id="product_reference" style="display: none;">
+				<label>Mod&egrave;le </label>
+				<span class="editable" itemprop="sku"></span>
+			</p> 	-->
+			
+			<div class="content_prices clearfix">
+													<!-- prices -->
+							<div class="price">
+								<p class="our_price_display" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+																												<span id="our_price_display" itemprop="price" content="38">38,00€</span>
+										<!--											HT										-->
+										<meta itemprop="priceCurrency" content="EUR" />
+										
+																	</p>
+								<p id="reduction_percent"  style="display:none;">
+									<span id="reduction_percent_display">
+																			</span>
+								</p>
+								<p id="reduction_amount"  style="display:none">
+									<span id="reduction_amount_display">
+																		</span>
+								</p>
+								<p id="old_price" class="hidden">
+																			
+										<span id="old_price_display"></span>
+										<!-- HT -->
+																	</p>
+															</div> <!-- end prices -->
+																											 
+						
+						<div class="clear"></div>
+					</div> <!-- end content_prices -->
+
+							<div id="short_description_block">
+											<div id="short_description_content" class="rte align_justify" itemprop="description"><p>Foulard en coton</p></div>
+					
+										
+					<!-- full description -->
+					<div  class="rte"><p>Une collection de&nbsp;foulards qui met en valeur le savoir-faire ancestral des artisans de Jaipur en Inde. Ils sont fabriqu&eacute;s &agrave; partir de tissus imprim&eacute;s selon la technique du block-print, des tampons faits &agrave; la main qui cr&eacute;ent des motifs absolument uniques.<br />&Agrave; porter selon vos envies, autour de votre cou, nou&eacute;s dans les cheveux, en guise de ceinture, ou encore sur votre sac. Un accessoire empli de l&eacute;g&egrave;ret&eacute; et aux imprim&eacute;s floraux intemporels et po&eacute;tiques.<br />Pour un entretien facile, lavage &agrave; 30&deg; en mode d&eacute;licat (avec des coloris similaires), repassage &agrave; basse temp&eacute;rature, s&egrave;che-linge doux.</p></div>
+			
+						
+					
+					
+					<!---->
+				</div> <!-- end short_description_block -->
+						
+
+
+					<!-- Data sheet -->
+			<section class="page-product-box">
+			<!-- 	<h3 class="page-product-heading">D&eacute;tails</h3> -->
+				<table class="table-data-sheet">
+				   &nbsp;  &nbsp;   - - - - - - - - - - - - - - - - - - - - - 
+										<tr class="odd">
+												<td>Dimensions :</td>
+						<td>100 x 100 cm</td>
+											</tr>
+										<tr class="even">
+												<td>Matière :</td>
+						<td>100% coton</td>
+											</tr>
+										<tr class="odd">
+												<td>Made in :</td>
+						<td>Inde</td>
+											</tr>
+										<tr class="even">
+												<td>Le petit plus :</td>
+						<td>Fabriqué de manière artisanale</td>
+											</tr>
+										
+				</table>
+			 </section>  &nbsp;  &nbsp;       - - - - - - - - - - - - - - - - - - - - - <br />
+			<!--end Data sheet -->
+				
+
+			<!-- pb-right-column-->
+			
+			
+											
+		<div class="pb-right-column">
+						<!-- add to cart form-->
+			<form id="buy_block" action="https://botw.fr/shop/fr/panier" method="post">
+				<!-- hidden datas -->
+				<p class="hidden">
+					<input type="hidden" name="token" value="33f622ff998861c0c30715953bd0fda3" />
+					<input type="hidden" name="id_product" value="26038" id="product_page_product_id" />
+					<input type="hidden" name="add" value="1" />
+					<input type="hidden" name="id_product_attribute" id="idCombination" value="" />
+				</p>
+							
+				<div class="box-info-product">
+				
+					<div class="product_attributes clearfix">
+						<!-- quantity wanted -->
+												<p id="quantity_wanted_p" style="display: none;">
+							<label>Quantit&eacute; : </label>
+							<input type="text" name="qty" id="quantity_wanted" class="text" value="1" />
+							<a href="#" data-field-qty="qty" class="btn btn-default button-minus product_quantity_down">
+								<span><i class="icon-minus"></i></span>
+							</a>
+							<a href="#" data-field-qty="qty" class="btn btn-default button-plus product_quantity_up">
+								<span><i class="icon-plus"></i></span>
+							</a>
+							<span class="clearfix"></span>
+						</p>
+												<!-- minimal quantity wanted -->
+						<p id="minimal_quantity_wanted_p" style="display: none;">
+							Ce produit ne peut &ecirc;tre vendu &agrave; l&#039;unit&eacute;. Vous devez en acheter au moins <b id="minimal_quantity_label">1</b> quantit&eacute; pour ce produit.
+						</p>
+													<!-- attributes -->
+							<div id="attributes">
+								<div class="clearfix"></div>
+																											<fieldset class="attribute_fieldset">
+											<label class="attribute_label" >Modèle :&nbsp;</label>
+																						<div class="attribute_list">
+																									<ul>
+																													<li>
+																<input type="radio" class="attribute_radio" name="group_13" value="1176"  />
+																<span>1 - Lucette Pink</span>
+															</li>
+																													<li>
+																<input type="radio" class="attribute_radio" name="group_13" value="1177"  checked="checked" />
+																<span>2 - Carma Rosée Blue</span>
+															</li>
+																													<li>
+																<input type="radio" class="attribute_radio" name="group_13" value="1178"  />
+																<span>3 - Azur Bleu</span>
+															</li>
+																											</ul>
+																							</div> <!-- end attribute_list -->
+										</fieldset>
+																								</div> <!-- end attributes -->
+												
+					</div> <!-- end product_attributes -->
+												<!-- availability -->
+				<p id="availability_statut">
+					
+					<span id="availability_value" class="warning_inline">Ce produit n&#039;est plus en stock actuellement </span>
+				</p>
+				
+				<p class="warning_inline" id="last_quantities" style="display: none" >Attention ! Il n&#039;en reste quasiment plus !</p>
+						<p id="availability_date" style="display: none;">
+				<span id="availability_date_label">Date de disponibilit&eacute; : autour du</span>
+				<span id="availability_date_value"></span>
+			</p>
+		
+			<!-- Out of stock hook -->
+			<div id="oosHook">
+				
+			</div>
+			
+					<div class="box-cart-bottom">
+						<div class="unvisible">
+							<p id="add_to_cart" class="buttons_bottom_block_cart no-print">
+								<button type="submit" name="Submit" class="exclusive">
+									<span>Ajouter au panier</span>
+								</button>
+							</p>
+						</div>
+						<strong></strong>
+					</div> <!-- end box-cart-bottom -->
+							
+							
+<p class="buttons_bottom_block no-print">
+	<a id="wishlist_button" href="#" onclick="WishlistCart('wishlist_block_list', 'add', '26038', $('#idCombination').val(), document.getElementById('quantity_wanted').value); return false;" rel="nofollow"  title="Ajouter à ma wishlist">
+		Ajouter à ma wishlist
+	</a>
+</p>
+<div  class="module-perso"  id="page" ><p><strong> <span style="text-transform: uppercase;">Commandes pr&eacute;par&eacute;es et exp&eacute;di&eacute;es sous 24h. <br />Exp&eacute;dition&nbsp;le jour m&ecirc;me pour les commandes pass&eacute;es&nbsp;avant 11H&nbsp;</span>(du lundi au vendredi). </strong></p></div><div  class="module-perso2"  id="page" ><p><em class="icon-smile icon-0.5x">&nbsp;</em>Satisfait ou rembours&eacute; sous 14 jours&nbsp; &nbsp; <em class="icon-question icon-0.5x">&nbsp;</em>Besoin d'aide ?&nbsp;<a href="https://botw.fr/shop/fr/contactez-nous" target="_blank">Contactez nous</a> !</p></div>
+				
+				</div> <!-- end box-info-product -->
+			</form>
+					
+		
+					<div id="links-block" class="clearfix">
+			<ul id="usefull_link_block" class="clearfix no-print">
+													<!-- usefull links-->			 
+			
+				
+					
+									</ul>
+								
+						
+						
+						</div>
+		</div> <!-- end pb-right-column--> 
+		</div>
+		<!-- end center infos-->
+	
+	</div> <!-- end primary_block -->
+	
+	
+
+	
+	
+	
+
+
+
+		
+		
+	
+					<!--Accessories -->
+			<section class="page-product-box">
+				<h3 class="page-product-heading">&hearts;︎ Vous aimerez peut-&ecirc;tre aussi...</h3>
+				<div class="block products_block accessories-block clearfix">
+					<div class="block_content">
+						<ul id="bxslider" class="bxslider clearfix">
+																																																																														<li class="item product-box ajax_block_product item product_accessories_description">
+										<div class="product_desc">
+											<a href="https://botw.fr/shop/fr/home/25891-sac-banane-gris-motif-coton-epais-danica.html" title="Sac banane - Chats" class="product-image product_image">
+												<img class="lazyOwl" src="https://botw.fr/shop/22498-home_default/sac-banane-gris-motif-coton-epais-danica.jpg" alt="Sac banane - Chats" width="320" height="320"/>
+											</a>
+											<div class="block_description">
+												<a href="https://botw.fr/shop/fr/home/25891-sac-banane-gris-motif-coton-epais-danica.html" title="Plus" class="product_description">
+													Sac banane
+												</a>
+											</div>
+										</div>
+										<div class="s_title_block">
+											<h5 class="product-name">
+												<a href="https://botw.fr/shop/fr/home/25891-sac-banane-gris-motif-coton-epais-danica.html">
+													Sac banane - Far ...
+												</a>
+											</h5>
+																						<span class="price">
+																								29,90€											</span>
+																					</div>
+										<div class="clearfix" style="margin-top:5px">
+																							<div class="no-print">
+													<a class="exclusive button ajax_add_to_cart_button" href="https://botw.fr/shop/fr/panier?qty=1&amp;id_product=25891&amp;token=33f622ff998861c0c30715953bd0fda3&amp;add=" data-id-product="25891" title="Ajouter au panier">
+														<span>Ajouter au panier</span>
+													</a>
+												</div>
+																					</div>
+									</li>
+																																																																																	</ul>
+					</div>
+				</div>
+			</section>
+			<!--end Accessories -->
+			<!--HOOK_PRODUCT_TAB -->
+		<section class="page-product-box">
+			
+					</section>
+		<!--end HOOK_PRODUCT_TAB -->
+					
+							<!-- description & features -->
+					
+			</div> <!-- itemscope product wrapper -->
+ 
+					</div><!-- #center_column -->
+										</div><!-- .row -->
+				</div><!-- #columns -->
+			</div><!-- .columns-container -->
+							<!-- Footer -->
+				<div class="footer-container">
+					<footer id="footer"  class="container">
+						<div class="row">
+<section id="social_block">
+	<ul>
+					<li class="facebook">
+				<a target="_blank" href="http://www.facebook.com/botwshop">
+					<span>Facebook</span>
+				</a>
+			</li>
+							<li class="twitter">
+				<a target="_blank" href="http://www.twitter.com/botwshop">
+					<span>Twitter</span>
+				</a>
+			</li>
+				                	<li class="youtube">
+        		<a href="http://www.instagram.com/botw.shop">
+        			<span>YouTube</span>
+        		</a>
+        	</li>
+                                	<li class="pinterest">
+        		<a href="http://www.pinterest.com/botwparis/boutique-bird-on-the-wire/">
+        			<span>Pinterest</span>
+        		</a>
+        	</li>
+        	</ul>
+ </section>
+<div class="clearfix"></div>
+<div style="clear:both"></div>
+<div id="lofadvafooterfooter" class="lofadvafooter">
+			<div id="lofadva-pos-2" class="lof-position" style="width:100%">
+			<div class="lof-position-wrap">
+							<div class="lofadva-block-1 lof-block" style="width:27.00%; float:left;">
+					<div class="lof-block-wrap">
+													<h2>Ils ont parlé de nous</h2>
+												<ul class="lof-items">
+																					<li class="lof-text">
+																		<img src="https://www.botw.fr/shop/img/botw-presse.png" alt="BOTW dans la presse" height="176px" width="199px">
+								</li>
+																			</ul>
+					</div>
+				</div>
+							<div class="lofadva-block-2 lof-block" style="width:16.00%; float:left;">
+					<div class="lof-block-wrap">
+													<h2>A propos</h2>
+												<ul class="lof-items">
+																					<li class="link"><a href="https://botw.fr/shop/fr/content/2-mentions-legales" title="Mentions légales" target="_self" >Mentions légales</a></li>
+																												<li class="link"><a href="https://botw.fr/shop/fr/content/4-a-propos" title="Qui sommes nous ?" target="_self" >Qui sommes nous ?</a></li>
+																												<li class="link"><a href="https://botw.fr/shop/fr/content/3-conditions-generales-de-ventes" title="CGV" target="_self" >CGV</a></li>
+																												<li class="link"><a href="http://botw.fr/shop/fr/plan-du-site" title="Plan du site" target="_self" >Plan du site</a></li>
+																												<li class="link"><a href="http://botw.fr/shop/en/my-account" title="Mon compte" target="_self" >Mon compte</a></li>
+																			</ul>
+					</div>
+				</div>
+							<div class="lofadva-block-3 lof-block" style="width:28.5%; float:left;">
+					<div class="lof-block-wrap">
+													<h2>Notre boutique à Paris</h2>
+												<ul class="lof-items">
+																					<li class="lof-text">
+																		<font face="verdana" color="#656565" size="1"> 
+Attention, la boutique parisienne a fermé ! </br>
+Nous avons déménagé dans le sud-ouest. </br>
+</br>
+Plus d'informations sur cette nouvelle aventure en cliquant ici :
+</font>
+								</li>
+																												<li class="lof-text">
+																		<a href="https://www.facebook.com/botwshop/photos/a.96104936940.86128.82563746940/10153989868026941/?type=3&theater"><img src="https://www.botw.fr/shop/img/boutique-paris.jpg" height="121px" width="215px" border="0">
+								</li>
+																			</ul>
+					</div>
+				</div>
+							<div class="lofadva-block-4 lof-block" style="width:28.5%; float:left;">
+					<div class="lof-block-wrap">
+													<h2>Aide</h2>
+												<ul class="lof-items">
+																					<li class="link"><a href="https://botw.fr/shop/fr/content/6-faq" title="FAQ" target="_self" >FAQ</a></li>
+																												<li class="link"><a href="https://botw.fr/shop/fr/content/1-livraison" title="Livraison" target="_self" >Livraison</a></li>
+																												<li class="link"><a href="http://botw.fr/shop/fr/nous-contacter" title="Nous contacter" target="_self" >Nous contacter</a></li>
+																												<li class="link"><a href="https://botw.fr/shop/fr/content/7-createur" title="Vous êtes un créateur ?" target="_self" >Vous êtes un créateur ?</a></li>
+																			</ul>
+					</div>
+				</div>
+						<div style="clear:both;"></div>
+			</div>
+		</div>
+	</div><script>
+
+    function setcook() {
+        var nazwa = 'cookie_ue';
+        var wartosc = '1';
+        var expire = new Date();
+        expire.setMonth(expire.getMonth()+12);
+        document.cookie = nazwa + "=" + escape(wartosc) +";path=/;" + ((expire==null)?"" : ("; expires=" + expire.toGMTString()))
+    }
+
+</script>
+<style>
+
+.closebutton {
+    cursor:pointer;
+	border:1px solid #dcdcdc;
+	display:inline-block;
+	color:#666666!important;
+	font-family:Arial;
+	background-color: #f9f9f9;
+	font-size:12px;
+	font-style:normal;
+	height:25px;
+	line-height:25px;
+	text-decoration:none;
+	text-align:center;
+    padding:0px 10px;
+	text-shadow:1px 1px 0px #ffffff;
+}
+.closebutton:hover {
+		background-color:white;
+}.closebutton:active {
+	position:relative;
+	top:1px;
+}
+
+
+#cookieNotice p {margin:0px; padding:0px;}
+
+</style>
+<div id="cookieNotice" style="
+width: 100%; 
+position: fixed; 
+bottom:0px;
+box-shadow: 0px 0 10px 0 #C7C7C7;
+background: #FFFFFF;
+z-index: 9999;
+font-size: 14px;
+line-height: 1.3em;
+font-family: arial;
+left: 0px;
+text-align:center;
+color:#FFF;
+opacity: 0.8
+">
+    <div id="cookieNoticeContent" style="position:relative; margin:auto; padding:10px; width:100%; display:block;">
+    <table style="width:100%;">
+      <td style="text-align:center;">
+        <span style="color: #4a4a4a; font-family: verdana, geneva; font-size: 8pt;">En continuant la navigation sur notre&nbsp;site, vous acceptez l'utilisation de cookies permettant de r&eacute;aliser des statistiques de visites.</span>
+      </td>
+      <td style="width:80px; vertical-align:middle; padding-right:20px; text-align:right;">
+    	<span id="cookiesClose" class="closebutton"  onclick="
+                        
+            $('#cookieNotice').animate(
+            {bottom: '-200px'}, 
+            2500, function(){
+                $('#cookieNotice').hide();
+            }); setcook();
+            ">
+            J'accepte
+                    </span>
+     </td>
+     </table>
+    </div>
+</div></div>
+					</footer>
+				</div><!-- #footer -->
+					</div><!-- #page -->
+</body></html>
